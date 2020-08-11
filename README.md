@@ -1,6 +1,8 @@
 ### Link to the project
 
-## Clone the project
+https://pathfinding-visualizer-react.web.app/
+
+### Clone the project
 
         `https://github.com/itsjustmithun/Pathfinding-Visualizer-React.git`
 
