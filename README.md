@@ -1,6 +1,6 @@
 ### Link to the project
 
-https://pathfinding-visualizer-react.web.app/
+https://itsjustmithun.github.io/Pathfinding-Visualizer-React/
 
 ### Clone the project
 
